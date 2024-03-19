@@ -9,9 +9,9 @@ This project focuses on predicting the ten-year risk of cardiovascular disease (
 1. Motivation
 2. Data
 3. Methodology
-4. Usage
+4. Conclusion
 5. Results
-6. Contributing
+
 
 # Motivation
 Cardiovascular disease poses a significant public health challenge globally, and proactive risk assessment is essential for effective prevention strategies. Predictive models for CHD risk can assist healthcare professionals in identifying high-risk individuals and implementing personalized interventions to reduce the burden of cardiovascular morbidity and mortality.
